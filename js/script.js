@@ -84,7 +84,6 @@ $(document).ready(function () {
         $('.project8').hide();
     });
 });
-
 function contact(form) {
     let name = document.forms["contacts"]["name"].value;
     let email = document.forms["contacts"]["email"].value;
