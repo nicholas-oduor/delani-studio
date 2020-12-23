@@ -233,3 +233,10 @@ textarea {
     color: black;
     font-size: 20px;
 }
+
+/* media query */
+@media screen and (min-width: 450px) and (max-width: 765px) {
+    body {
+        background-color: white;
+    }
+}
