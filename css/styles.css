@@ -39,3 +39,11 @@ h5 {
     color: white;
     padding: 100px;
 }
+
+/* design section */
+#design-p,
+#development-p,
+#product-p {
+    display: none;
+    text-align: center;
+}
