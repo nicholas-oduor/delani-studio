@@ -19,7 +19,8 @@
     text-align: center;
 }
 
-h2,h4 {
+h2,
+h4 {
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
@@ -46,4 +47,19 @@ h5 {
 #product-p {
     display: none;
     text-align: center;
+}
+
+#design-pic,
+#development-pic,
+#product-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* footer section */
+.footer {
+    width: 55%;
+    margin: 0 auto;
+    padding: 100px;
 }
