@@ -79,7 +79,9 @@ h5 {
     padding: 20px;
 }
 
-#form1,#form2,#form3 {
+#form1,
+#form2,
+#form3 {
     background-color: transparent;
 }
 
@@ -94,4 +96,13 @@ textarea {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+}
+
+#sayhi ::placeholder {
+    color: white;
+}
+
+#sayhi input {
+    color: white;
+    background-color: transparent;
 }
