@@ -1,0 +1,11 @@
+/* Introduction page */
+.first {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-image: url('../images/h_img.jpg');
+    height: 720px;
+    text-align: center;
+    padding: 180px;
+    color: white;
+}
