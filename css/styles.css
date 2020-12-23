@@ -126,3 +126,14 @@ textarea {
     text-align: start;
     vertical-align: top;
 }
+
+#pro {
+    margin-top: 30%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.col-space {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
