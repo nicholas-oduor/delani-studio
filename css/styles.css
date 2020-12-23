@@ -106,3 +106,23 @@ textarea {
     color: white;
     background-color: transparent;
 }
+
+
+/* portfolio */
+.portfolio {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 9%;
+    padding-right: 9%;
+}
+
+.portfolio>h2 {
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.portfolio>P {
+    text-align: start;
+    vertical-align: top;
+}
