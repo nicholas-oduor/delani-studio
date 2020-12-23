@@ -9,3 +9,7 @@
     padding: 180px;
     color: white;
 }
+
+.first img:last-child {
+    padding: 150px;
+}
