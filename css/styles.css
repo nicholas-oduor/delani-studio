@@ -13,3 +13,8 @@
 .first img:last-child {
     padding: 150px;
 }
+
+/* About section */
+.second {
+    text-align: center;
+}
