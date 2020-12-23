@@ -63,3 +63,18 @@ h5 {
     margin: 0 auto;
     padding: 100px;
 }
+
+/* contact form  */
+.contact {
+    background-image: url('../images/c_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.contact>h2 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
