@@ -31,3 +31,9 @@ To contribute to the site, please do the following:
 
 ## Author
 - Nicholas  Oduor
+
+
+## License 
+[MIT]
+
+ © Nicholas Oduor
