@@ -28,3 +28,6 @@ To contribute to the site, please do the following:
 - [HTML](https://www.htmltutorialspoint.com) - HTML tutorial.
 - [CSS](https://www.csstutorialspoint.com) - css tutorial.
 - [Javascript](https://www.javascripttutorialspoint.com) - javascript tutorial.
+
+## Author
+- Nicholas  Oduor
