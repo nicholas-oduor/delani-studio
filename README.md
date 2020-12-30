@@ -34,6 +34,6 @@ To contribute to the site, please do the following:
 
 
 ## License 
-[MIT]
+[MIT](https://nicholas-oduor.github.io/delani-studio/)
 
  © Nicholas Oduor
