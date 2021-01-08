@@ -8,7 +8,7 @@
     height: 720px;
     text-align: center;
     padding: 180px;
-    
+
 }
 
 .first img:last-child {
@@ -67,7 +67,7 @@ h5 {
 
 /* contact form  */
 .contact {
-    background-image: url('../images/c_image.jpg');
+    background-image: url('../images/c.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
@@ -83,7 +83,7 @@ h5 {
 #form1,
 #form2,
 #form3 {
-    background-color:transparent;
+    background-color: transparent;
 }
 
 textarea {
@@ -105,7 +105,7 @@ textarea {
 
 #sayhi input {
     color: white;
-    background-color:rgb(252, 248, 248);
+    background-color: rgb(252, 248, 248);
 }
 
 

@@ -30,7 +30,7 @@ To contribute to the site, please do the following:
 - [Javascript](https://www.javascripttutorialspoint.com) - javascript tutorial.
 
 ## Author
-- Nicholas  Oduor
+- Nicholas  Oduor(https://github.com/nicholas-oduor/delani-studio/tree/gh-pages)
 
 
 ## License 
